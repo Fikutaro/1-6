@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+}
+
+.haru {
+  width: auto;
+  height: 200px;
+  background-image: url(img/box1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.natu {
+  width: auto;
+  height: 200px;
+  background-image: url(img/box2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.aki {
+  width: auto;
+  height: 200px;
+  background-image: url(img/box3.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.huyu {
+  width: auto;
+  height: 200px;
+  background-image: url(img/box4.jpg);
+  background-size: cover;
+  background-position: center;
+}
